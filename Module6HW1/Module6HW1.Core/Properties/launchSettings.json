@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Module6HW1.Core": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:59680;http://localhost:59681"
+    }
+  }
+}
